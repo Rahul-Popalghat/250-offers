@@ -2,3 +2,4 @@
 html,body{margin:0;padding:0;}
 .row{width:100%; display:flex; justify-content:space-between;}
 .col{width:100%; display:flex; flex-direction:column; }
+a{color:red;}
